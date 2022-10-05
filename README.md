@@ -7,5 +7,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herenacreative&show_icons=true&locale=en" alt="herenacreative" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herenacreative&" alt="herenacreative" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herenacreative&show_icons=true&locale=en&layout=compact" alt="herenacreative" /></p>
