@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herenacreative&label=Profile%20views&color=0e75b6&style=flat" alt="heren
 
-- 💬 Ask me about **...**
+- 💬 Ask me about ...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=herenacreative&show_icons=true&locale=en" alt="herenacreative" /></p> 
 
